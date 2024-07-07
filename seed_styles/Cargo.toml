@@ -16,7 +16,6 @@ derive_more = "0.99.16"
 seed = { git = "https://github.com/seed-rs/seed.git", branch = "master"}
 seed_hooks = { path = "../seed_hooks" }
 objekt-clonable = "0.2.2"
-eager = "0.1.0"
 rust-hsluv = "0.1.4"
 gloo-console = "0.3.0"
 
